@@ -1,0 +1,123 @@
+
+.header .navbar .navbar-nav {
+    margin-top: 5px;
+    display: flex;
+    height: 60px;
+    align-items: center;
+}
+.header .navbar .navbar-brand {
+    margin-left: 0;
+}
+.header .navbar .navbar-nav .nav-item.menu_social {
+    padding: 0 0 4px;
+}
+.header .navbar .navbar-nav .nav-item.menu_social .nav-link {
+    padding: 0px 6px;
+}
+
+.footer .social-icon {
+    flex-direction: row-reverse;
+}
+.footer .social-icon li a {
+    font-size: 15px;
+    color: #000;
+    font-weight: 700;
+    transition: all 0.4s ease-in-out;
+}
+.footer .social-icon li a:hover {
+    color: #e53218;
+}
+.footer .navbar-brand {
+    margin-left: -20px;
+}
+
+.slick-slide {
+    margin: 0;
+}
+.header .navbar .navbar-nav .nav-item.contact .nav-link {
+    color: rgba(0, 0, 0, 0.45);
+}
+.floating-label-group .floating-label {
+    text-transform: capitalize;
+}
+
+
+.btn:focus {
+    box-shadow: none;
+    outline: none;
+}
+.solution-page .modal-dialog .modal-body {
+    text-align: center;
+}
+.solution-page .automated-pavement .text-box {
+    padding-right: 20px;
+}
+
+.floating-label-group.active-lable .floating-label {
+    top: -9px;
+    bottom: auto;
+    left: 18px;
+    font-size: 13px;
+    opacity: 1;
+    color: #ff7000;
+    z-index: 99;
+    background: #fff;
+    padding: 0 4px;
+}
+
+
+
+
+
+@media screen and (max-width:1280px) {
+    .header .navbar .navbar-nav .nav-item.menu_social {
+        padding: 0 0 4px;
+        display: none;
+    }
+  
+
+}
+@media screen and (max-width:800px) {
+
+    .k-center .nav-tabs .nav-item {
+        padding: 4px 10px;
+    }
+
+}
+@media screen and (max-width:767px) {
+    .header .navbar .navbar-nav {
+        margin-top: 0;
+        display: block;
+        height: auto;
+        align-items: start;
+    }
+    .header .navbar .navbar-brand {
+        margin-left: 10px;
+    }
+    .solution-page .as-easy-as .col-md-4.text-center {
+        max-width: 100%;
+    }
+    .solution-page .as-easy-as .text-box {
+        max-width: 79%;
+    }
+    .nav-open {
+        top: 4.5%;
+    }
+    .footer .navbar-brand {
+        margin-left: 0;
+    }
+    .header .navbar .navbar-nav .nav-item.menu_social {
+        display: block;
+    }
+    .footer .social-icon li a img {
+        width: 25px;
+    }
+    .header .navbar .navbar-nav .nav-item .nav-link img {
+        width: 25px;
+        margin: 8px;
+    }
+    .footer .social-icon li a {
+        font-size: 13px;
+    }
+
+}

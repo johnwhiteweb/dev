@@ -1,0 +1,1 @@
+alias php='/c/xampp/php/php.exe'

@@ -1,0 +1,87 @@
+
+
+<a class="btn REQUEST_A_DEMO" data-toggle="modal" data-target="#exampleModal" href="#"><span>REQUEST A DEMO</span></a>
+
+
+
+<div class="modal fade show" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" style="padding-right: 10px; display: block;" aria-modal="true" role="dialog">
+  <div class="modal-dialog main-site">
+    <div class="modal-content main-box">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+			<h2 class="heading">Unlock Your Hidden Road Potential</h2>
+           <p class="sub-heading">Fill out the form and we will be in touch with you shortly</p>
+        <!--<form>
+          
+            <div class="row">
+                <div class="col-sm-6">
+                <div class="form-group floating-label-group">
+                <input class="form-control" placeholder="" autocomplete="off" required="" type="text">
+                <label class="floating-label">First Name</label>
+                </div>
+                </div>                         
+                <div class="col-sm-6">
+                <div class="form-group floating-label-group">
+                <input class="form-control" placeholder="" autocomplete="off" required="" type="text">
+                <label class="floating-label">Last Name</label>
+                </div>
+                </div>                         
+                <div class="col-sm-6">
+                <div class="form-group floating-label-group">
+                <input class="form-control border-bottm" placeholder="" autocomplete="off" required="" type="text">
+                <label class="floating-label">company Email</label>
+                </div>
+                </div>                         
+                <div class="col-sm-6">
+                <div class="form-group floating-label-group">
+                <input class="form-control border-bottm" placeholder="" autocomplete="off" required="" type="text">
+                <label class="floating-label">company name</label>
+                </div>
+                </div>  
+                <div class="col-sm-6">
+                  <div class="form-group floating-label-group">
+                  <input class="form-control border-bottm" placeholder="" autocomplete="off" required="" type="text">
+                  <label class="floating-label">Phone number</label>
+                  </div>
+                </div>     
+                <div class="col-sm-6">
+                    <div class="form-group floating-label-group icon">
+                      <select class="custom-select">
+                        <option selected>job title</option>
+                        <option value="1">One</option>
+                        <option value="2">Two</option>
+                        <option value="3">Three</option>
+                      </select>
+                    <label class="floating-label"></label>
+                    </div>
+                </div>     
+                <div class="col-sm-6">
+                     <div class="form-group floating-label-group icon">
+                       <select class="custom-select" >
+                         <option selected>contry</option>
+                         <option value="1">One</option>
+                         <option value="2">Two</option>
+                         <option value="3">Three</option>
+                       </select>
+                     </div>
+                </div>     
+                <div class="col-sm-6">
+                     <button class="btn">REQUEST A DEMO</button>
+                </div>
+				
+            </div>
+        </form>-->
+		[contact-form-7 id="3579" title="Request A Demo"]      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<a class="img-box float-left add_play V_pop" onclick="return false" href="#" data-toggle="modal" data-target="#localVideoLocal" tabindex="-1">
+									<img class="img-fluid" src="http://localhost/DEV/1/wp-content/uploads/2021/05/theCube-conversation.png">
+									</a>

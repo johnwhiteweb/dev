@@ -1,0 +1,31 @@
+
+changes:
+
+
+footer + sizes + reconnect properly
+
+button effect.
+
+
+jquery conflict?
+
+
+
+after upload- reconnect footer, menu.
+
+
+
+
+
+section.ebook {
+    min-height: 550px;
+}
+
+contact form inner pages send button - 
+https://dev.hostests.com/tactilemobility/how-5g-will-transform-and-diversify-data-for-automakers/
+
+
+
+
+
+home page + solutions meta
